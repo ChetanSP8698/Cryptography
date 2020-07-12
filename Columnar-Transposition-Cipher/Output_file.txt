@@ -1,0 +1,54 @@
+
+e m e 
+m t e 
+t a e 
+e l p 
+a h n 
+l t a 
+e k x 
+Plain text could be :- e m e m t e t a e e l p a h n l t a e k x 
+
+m e e 
+t e m 
+a e t 
+l p e 
+h n a 
+t a l 
+k x e 
+Plain text could be :- m e e t e m a e t l p e h n a t a l k x e 
+
+e e m 
+e m t 
+e t a 
+p e l 
+n a h 
+a l t 
+x e k 
+Plain text could be :- e e m e m t e t a p e l n a h a l t x e k 
+
+e m e 
+e t m 
+e a t 
+p l e 
+n h a 
+a t l 
+x k e 
+Plain text could be :- e m e e t m e a t p l e n h a a t l x k e 
+
+e e m 
+m e t 
+t e a 
+e p l 
+a n h 
+l a t 
+e x k 
+Plain text could be :- e e m m e t t e a e p l a n h l a t e x k 
+
+m e e 
+t m e 
+a t e 
+l e p 
+h a n 
+t l a 
+k e x 
+Plain text could be :- m e e t m e a t e l e p h a n t l a k e x 
